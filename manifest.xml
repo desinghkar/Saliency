@@ -1,0 +1,18 @@
+<package>
+  <description brief="saliency_iros_2013">
+
+     saliency_iros_2013
+
+  </description>
+  <author>karthik</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/saliency_iros_2013</url>
+  <depend package="opencv2"/>
+  <depend package="pcl"/>
+  <depend package="roscpp"/>
+  <depend package="visualization_msgs"/>
+
+</package>
+
+

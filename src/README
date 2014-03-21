@@ -1,0 +1,7 @@
+Run the imageSaliencyFile
+Run the depthSaliencyFile
+Run the gtSaliencyFile
+Run SVM compatible file
+Run sampling files if necessary / images wise
+Run SVM training
+RUN SVM testing on query image / query file
